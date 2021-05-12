@@ -1,0 +1,8 @@
+.player-card{
+    border: none;
+    border-radius: 8px;
+    box-shadow: 2px 2px 12px rgba(200, 200, 200, .5);
+}
+.add-player{
+    background-color: violet;
+}

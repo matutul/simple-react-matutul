@@ -1,0 +1,17 @@
+.listedPlayer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 2px 2px 12px rgba(200, 200, 200, .5);
+}
+.card-image{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline;
+}
